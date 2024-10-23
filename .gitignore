@@ -1,2 +1,9 @@
 plugin/packer_compiled.lua
-
+.zshrc.bak
+node_modules
+test
+.zshrc.bak
+nvim.log
+out
+out.log
+rplugin

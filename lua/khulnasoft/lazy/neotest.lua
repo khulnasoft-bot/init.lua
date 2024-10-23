@@ -18,7 +18,7 @@ return {
                         -- in all my projects
                         min_init = "./scripts/tests/minimal.vim",
                     }),
-                }
+                },
             })
 
             vim.keymap.set("n", "<leader>tc", function()
@@ -27,4 +27,3 @@ return {
         end,
     },
 }
-
